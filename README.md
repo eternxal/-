@@ -1,4 +1,4 @@
-<img width="368" height="368" alt="17771196658688854771229430608424" src="https://github.com/user-attachments/assets/8671163a-00c5-4f54-892f-8641d352128f" /><img width="368" height="368" alt="17771196658688854771229430608424" src="https://github.com/user-attachments/assets/7ae94e9e-15d8-4773-bb3b-d488e1fa4859" /># 𝄞𓂃 ࣪˖ 𝒀𝒐𝒖𝒓 𝑺𝒚𝒎𝒑𝒉𝒐𝒏𝒚 𝑹𝒆𝒔𝒐𝒏𝒂𝒕𝒆𝒔 𝒘𝒊𝒕𝒉𝒊𝒏 𝑴𝒚𝒔𝒆𝒍𝒇
+# 𝄞𓂃 ࣪˖ 𝒀𝒐𝒖𝒓 𝑺𝒚𝒎𝒑𝒉𝒐𝒏𝒚 𝑹𝒆𝒔𝒐𝒏𝒂𝒕𝒆𝒔 𝒘𝒊𝒕𝒉𝒊𝒏 𝑴𝒚𝒔𝒆𝒍𝒇
 
 ![˖ ݁𖥔 ݁˖ ꒰ 𐙚 ꒱   ˖ ݁](https://github.com/eternxal/-/blob/47e11649b009b67242ee52cb8d801a732a2b8512/images%20(22).jpeg)
 
