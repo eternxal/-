@@ -5,4 +5,4 @@
 # ꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦꒷꒦︶ .ᐟ𝑨𝒃𝒐𝒖𝒕𝑴𝒆.ᐟ ꒷꒦︶ ๋ ࣭ ⭑꒷꒦꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦
 ![✦](https://github.com/eternxal/eternxal/blob/b0a60ee59fb26d87dd0eff074e093fca9a94d4c5/Tumblr_l_1494398139165.jpg)
 
-![uwu](<img width="368" height="368" alt="17771196658688854771229430608424" src="https://github.com/user-attachments/assets/e35ec495-7dbb-4449-8bea-040f7fdb76aa" />)
+<img width="368" height="368" alt="17771196658688854771229430608424" src="https://github.com/user-attachments/assets/e35ec495-7dbb-4449-8bea-040f7fdb76aa" />
