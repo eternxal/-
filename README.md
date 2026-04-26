@@ -1,7 +1,7 @@
 # 𝄞𓂃 ࣪˖ 𝒀𝒐𝒖𝒓 𝑺𝒚𝒎𝒑𝒉𝒐𝒏𝒚 𝑹𝒆𝒔𝒐𝒏𝒂𝒕𝒆𝒔 𝒘𝒊𝒕𝒉𝒊𝒏 𝑴𝒚𝒔𝒆𝒍𝒇
 ![♡](https://github.com/eternxal/eternxal/blob/4ee2ac12da6302a47b28216a06eb359c1531a4ee/1000153962-removebg-preview.png)
 ![˖ ݁𖥔 ݁˖ ꒰ 𐙚 ꒱   ˖ ݁](https://github.com/eternxal/eternxal/blob/d91747e26fcf4dbfcf55ac1a32b02e2d073ae71d/images%20(22).jpeg)
-![♡](https://github.com/eternxal/eternxal/blob/7cddcc22539faec0b96e0d1826c252e635f583ef/Tumblr_l_1120290910835.gif)
+
 ![♡](https://github.com/eternxal/eternxal/blob/abe5f76553a15f7ba70055162bfd5b0a86f45e74/Tumblr_l_1201520103070.jpg)
 # <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=6CB38A&width=435&lines=%EF%B8%B6%EF%B8%B6+%F0%94%93%95++%E0%AD%A8%E0%AD%A7++%F0%9D%91%A8%F0%9D%92%83%F0%9D%92%90%F0%9D%92%96%F0%9D%92%95+%F0%9D%91%B4%F0%9D%92%86+%E0%AD%A8%E0%AD%A7++%F0%94%93%95+%EF%B8%B6%EF%B8%B6+++" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=10000&color=8ADC85EC&background=17267000&center=true&width=435&lines=+%F0%94%93%95++++%F0%9D%90%8C%F0%9D%90%9A%F0%9D%90%A9%F0%9D%90%A5%F0%9D%90%9E+%2F+%F0%9D%90%8C%F0%9D%90%A2%F0%9D%90%B3" alt="Typing SVG" /></a>
