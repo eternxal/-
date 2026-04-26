@@ -15,5 +15,4 @@
 
 <img width="368" height="368" alt="17771196658688854771229430608424" src="https://github.com/user-attachments/assets/e35ec495-7dbb-4449-8bea-040f7fdb76aa" />
 
-
 ![♡](https://github.com/eternxal/eternxal/blob/4ee2ac12da6302a47b28216a06eb359c1531a4ee/1000153962-removebg-preview.png)
