@@ -1,3 +1,7 @@
+![♡](https://github.com/eternxal/eternxal/blob/a68ed579cecacba3168432310707e3bb94f63bae/Untitled369_20260420173010.png)
+![♡](https://github.com/eternxal/eternxal/blob/a68ed579cecacba3168432310707e3bb94f63bae/Tumblr_l_1201520103070.jpg)
+
+
 ${\color{#344E6F}་༘}$
 ${\color{#2D6C83}๑}$
 $${\color{#159C9A}⭑꒷}$$
