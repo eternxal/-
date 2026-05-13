@@ -18,8 +18,10 @@ $${\color{#2D6C83}.}$$
 ${\color{#273A61}◟₊}$
 $${\color{#2D6C83}I}$$
 $${\color{#159C9A}Know}$$
-$${\color{#49B299}You ,}$$
+$${\color{#49B299}You}$$
 
+$${\color{#AEE4D7}I ࣪ve}$$
+$${\color{#85DAC5}Walked}$$
 
 ![♡](https://github.com/eternxal/eternxal/blob/f1db93af1794e4592fa0a0595f40e6124ff7b6ae/Tumblr_l_23731063717183.jpg)
 
