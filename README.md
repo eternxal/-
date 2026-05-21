@@ -26,7 +26,7 @@ $${\color{#699db3}˖}$$
 $${\color{#4b6f92} ִֶָ}$$
 
 <p align="center">${\color{#517cbb}˖ ݁}$
-$${\color{#436e98}Iᐟ}$$
+$${\color{#436e98}I\color{#699db3}ᐟv}$$
 
 
 <p align="right">${\color{#3d5690}Once}$
