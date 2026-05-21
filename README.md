@@ -27,13 +27,13 @@ $${\color{#AEE4D7} ࣪}$$
 $${\color{#699db3}˖}$$
 $${\color{#4b6f92} ִֶָ}$$
 
-<p align="center">${\color{#5BC0A7}˖ ݁}$
-$${\color{#699db3}I
+<p align="center">${\color{#81b0d9}˖ ݁}$
+$${\color{#a1d3e6}I
 ′
 ve}$$
-$${\color{#b7d1e8}walked}$$
-$${\color{#AEE4D7}with}$$
-$${\color{#E3FDFF}You}$$
+$${\color{#E3FDFF}walked}$$
+$${\color{#a1d3e6}with}$$
+$${\color{#81b0d9}You}$$
 
 
 ![♡](https://github.com/eternxal/eternxal/blob/5a0e0de7c013541ffe8fe3ca2b9268f931dc5cb4/68747470733a2f2f66696c652e67617264656e2f614c623531466f3865423264495a52482f696d6167655f323032362d30352d30345f3137353434363832312e706e67.png)
