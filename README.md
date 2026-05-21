@@ -32,8 +32,8 @@ $${\color{#a1d3e6}I
 ′
 ve}$$
 $${\color{#E3FDFF}walked}$$
-$${\color{#a1d3e6}with}$$
-$${\color{#517cbb}You}$$
+$${\color{#699db3}with}$$
+$${\color{#a1d3e6}You}$$
 
 <p align="right">${\color{#3d5690}Once}$
 $${\color{#6b82b7}upon}$$
