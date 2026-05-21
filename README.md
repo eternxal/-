@@ -1,16 +1,19 @@
 
-<p align="center">${\color{#344E6F} ݁𖥔}$
-${\color{#1e2651} ݁𖥔}$
-$${\color{#2a386e} ݁𖥔}$$
-$${\color{#699db3} ݁𖥔}$$
-$${\color{#b7d1e8} ݁𖥔}$$
+<p align="center">${\color{#244665}˖}$
+${\color{#3d6073}ξა}$
+${\color{#1e2651}𖥔 ݁}$
+$${\color{#2a386e}𖥔 ݁}$$
+$${\color{#699db3}𖥔 ݁}$$
+$${\color{#b7d1e8}𖥔 ݁}$$
 $${\color{#AEE4D7}◞}$$
 $${\color{#E3FDFF}✦}$$
 $${\color{#AEE4D7}◟}$$
-$${\color{#b7d1e8} ݁𖥔}$$
-$${\color{#699db3} ݁𖥔}$$
-$${\color{#2a386e} ݁𖥔}$$
-$${\color{#1e2651} ݁𖥔}$$
+$${\color{#b7d1e8} ݁ 𖥔}$$
+$${\color{#699db3} ݁ 𖥔}$$
+$${\color{#2a386e} ݁ 𖥔}$$
+$${\color{#1e2651} ݁ 𖥔}$$
+$${\color{#3d6073}໒꒱}$$
+$${\color{#244665}˖}$$
 
 ![♡](https://github.com/eternxal/eternxal/blob/f1db93af1794e4592fa0a0595f40e6124ff7b6ae/Tumblr_l_23731063717183.jpg)
 
