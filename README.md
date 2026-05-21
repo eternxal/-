@@ -29,7 +29,7 @@ $${\color{#4b6f92} ִֶָ}$$
 $${\color{#436e98}I\color{#699db3}ᐟv\color{#8cc3d3}e⠀w\color{#bad3da}a\color{#bddfe8}l\color{#d4edf3}ke\color{#e3fdff}d⠀w\color{#a8cce0}i\color{#7da8d4}t\color{#4591c0}h\color{#4585c0}⠀Y\color{#3a65b5}o\color{#283378}u}$$
 
 
-<p align="right">${\color{#8cc3d3}O\color{#bad3da}n\color{#bddfe8}c\color{#e3fdff}e}$
+<p align="right">${\color{#8cc3d3}O\color{#bad3da}n\color{#bde5fb}c\color{#e3fdff}e}$
 $${\color{#e3fdff}་༘}$$
 $${\color{#a1d3e6}˖}$$
 
