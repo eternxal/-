@@ -28,12 +28,12 @@ $${\color{#699db3}˖}$$
 $${\color{#4b6f92} ִֶָ}$$
 
 <p align="center">${\color{#3b4e7f}˖ ݁}$
-$${\color{#81b0d9}I
+$${\color{#517cbb}I
 ′
 ve}$$
-$${\color{#a1d3e6}walked}$$
-$${\color{#E3FDFF}with}$$
-$${\color{#a1d3e6}You}$$
+$${\color{#81b0d9}walked}$$
+$${\color{#a1d3e6}with}$$
+$${\color{#E3FDFF}You}$$
 
 <p align="right">${\color{#517cbb}Once}$
 $${\color{#81b0d9}upon}$$
