@@ -17,7 +17,7 @@ $${\color{#2D6C83}.}$$
 
 ${\color{#273A61}◟}$
 $${\color{#2D6C83}I}$$
-$${\color{#159C9A}Know}$$
+$${\color{#159C9A}know}$$
 $${\color{#49B299}You}$$
 $${\color{#85DAC5}◞}$$
 $${\color{#AEE4D7}    ✦}$$
@@ -25,10 +25,13 @@ $${\color{#E3FDFF} ࣪}$$
 $${\color{#B0C7D4}˖}$$
 $${\color{#668C9C} ִֶָ}$$
 
-<p align="center">${\color{#5BC0A7}˖ ݁  ་༘}$
-$${\color{#85DAC5}i
+<p align="center">${\color{#5BC0A7}˖ ݁}$
+$${\color{#85DAC5}I
 ′
 ve}$$
+$${\color{#85DAC5}walked}$$
+$${\color{#AEE4D7}with}$$
+$${\color{#E3FDFF}You}$$
 
 
 ![♡](https://github.com/eternxal/eternxal/blob/f1db93af1794e4592fa0a0595f40e6124ff7b6ae/Tumblr_l_23731063717183.jpg)
