@@ -13,7 +13,7 @@ $${\color{#2a386e} ݁ 𖥔}$$
 $${\color{#1e2651} ݁ 𖥔}$$
 $${\color{#244665}˖}$$
 
-![♡](https://github.com/eternxal/eternxal/blob/f1db93af1794e4592fa0a0595f40e6124ff7b6ae/Tumblr_l_23731063717183.jpg)
+![♡](https://github.com/eternxal/eternxal/blob/3d3f7f53678934bda8ceb7fd49d1d124b469518d/68747470733a2f2f66696c652e67617264656e2f614c623531466f3865423264495a52482f696d6167655f323032362d30352d30345f3137353434363832312e706e67.png)
 
 ![♡](https://github.com/eternxal/eternxal/blob/d29307fb4aafe9d9229d7e811a7c8cea808ec776/d6f49b4f96b0d58ab1c162681532ec2a.jpg)
 
@@ -36,6 +36,6 @@ $${\color{#AEE4D7}with}$$
 $${\color{#E3FDFF}You}$$
 
 
-![♡](https://github.com/eternxal/eternxal/blob/f1db93af1794e4592fa0a0595f40e6124ff7b6ae/Tumblr_l_23731063717183.jpg)
+![♡](https://github.com/eternxal/eternxal/blob/3d3f7f53678934bda8ceb7fd49d1d124b469518d/68747470733a2f2f66696c652e67617264656e2f614c623531466f3865423264495a52482f696d6167655f323032362d30352d30345f3137353434363832312e706e67.png)
 
-![♡](https://github.com/eternxal/eternxal/blob/f1db93af1794e4592fa0a0595f40e6124ff7b6ae/Tumblr_l_23176974377765.gif)
+![♡](https://github.com/eternxal/eternxal/blob/3d3f7f53678934bda8ceb7fd49d1d124b469518d/Tumblr_l_3437530462050.jpg)
