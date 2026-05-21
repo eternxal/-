@@ -2,6 +2,7 @@
 <p align="center">${\color{#244665}˖}$
 ${\color{#1e2651}𖥔 ݁}$
 $${\color{#2a386e}𖥔 ݁}$$
+$${\color{#4b6f92}𖥔 ݁}$$
 $${\color{#699db3}𖥔 ݁}$$
 $${\color{#b7d1e8}𖥔 ݁}$$
 $${\color{#AEE4D7}◞}$$
@@ -9,6 +10,7 @@ $${\color{#E3FDFF}✦}$$
 $${\color{#AEE4D7}◟}$$
 $${\color{#b7d1e8} ݁ 𖥔}$$
 $${\color{#699db3} ݁ 𖥔}$$
+$${\color{#4b6f92} ݁ 𖥔}$$
 $${\color{#2a386e} ݁ 𖥔}$$
 $${\color{#1e2651} ݁ 𖥔}$$
 $${\color{#244665}˖}$$
