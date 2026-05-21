@@ -29,10 +29,7 @@ $${\color{#4b6f92} ִֶָ}$$
 $${\color{#436e98}I\color{#699db3}ᐟv\color{#8cc3d3}e⠀w\color{#bad3da}a\color{#bddfe8}l\color{#d4edf3}ke\color{#e3fdff}d⠀w\color{#a8cce0}i\color{#7da8d4}t\color{#4591c0}h\color{#4585c0}⠀Y\color{#3a65b5}o\color{#283378}u}$$
 
 
-<p align="right">${\color{#3d5690}Once}$
-$${\color{#6b82b7}upon}$$
-$${\color{#8ca8c8}a}$$
-$${\color{#b6d8e3}Dream}$$
+<p align="right">${\color{#8cc3d3}O\color{#bad3da}n}$
 $${\color{#e3fdff}་༘}$$
 $${\color{#a1d3e6}˖}$$
 
