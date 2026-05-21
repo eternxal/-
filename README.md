@@ -20,6 +20,11 @@ $${\color{#2D6C83}I}$$
 $${\color{#159C9A}Know}$$
 $${\color{#49B299}You}$$
 
+$${\color{#5BC0A7}˖ ݁𖥔་༘ ࿐}$$${\color{#85DAC5}i
+′
+ve}$
+
+
 ![♡](https://github.com/eternxal/eternxal/blob/f1db93af1794e4592fa0a0595f40e6124ff7b6ae/Tumblr_l_23731063717183.jpg)
 
 ![♡](https://github.com/eternxal/eternxal/blob/f1db93af1794e4592fa0a0595f40e6124ff7b6ae/Tumblr_l_23176974377765.gif)
