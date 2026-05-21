@@ -27,13 +27,13 @@ $${\color{#AEE4D7} ࣪}$$
 $${\color{#699db3}˖}$$
 $${\color{#4b6f92} ִֶָ}$$
 
-<p align="center">${\color{#81b0d9}˖ ݁}$
-$${\color{#a1d3e6}I
+<p align="center">${\color{#3b4e7f}˖ ݁}$
+$${\color{#517cbb}I
 ′
 ve}$$
-$${\color{#E3FDFF}walked}$$
-$${\color{#a1d3e6}with}$$
-$${\color{#81b0d9}You}$$
+$${\color{#a1d3e6}walked}$$
+$${\color{#E3FDFF}with}$$
+$${\color{#a1d3e6}You}$$
 
 <p align="right">${\color{#517cbb}Once}$
 $${\color{#81b0d9}upon}$$
