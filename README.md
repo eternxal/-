@@ -20,7 +20,8 @@ $${\color{#2D6C83}I}$$
 $${\color{#159C9A}Know}$$
 $${\color{#49B299}You}$$
 
-$${\color{#5BC0A7}˖ ݁  ་༘}$$$${\color{#85DAC5}i
+<p align="center">${\color{#5BC0A7}˖ ݁  ་༘}$
+$${\color{#85DAC5}i
 ′
 ve}$$
 
