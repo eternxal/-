@@ -35,11 +35,11 @@ $${\color{#81b0d9}walked}$$
 $${\color{#a1d3e6}with}$$
 $${\color{#E3FDFF}You}$$
 
-<p align="right">${\color{#517cbb}Once}$
-$${\color{#81b0d9}upon}$$
-$${\color{#a1d3e6}a}$$
-$${\color{#E3FDFF}Dream}$$
-$${\color{#ffffff}་༘}$$
+<p align="right">${\color{#3d5690}Once}$
+$${\color{#6b82b7}upon}$$
+$${\color{#8ca8c8}a}$$
+$${\color{#b6d8e3}Dream}$$
+$${\color{#e3fdff}་༘}$$
 $${\color{#a1d3e6}˖}$$
 
 ![♡](https://github.com/eternxal/eternxal/blob/5a0e0de7c013541ffe8fe3ca2b9268f931dc5cb4/68747470733a2f2f66696c652e67617264656e2f614c623531466f3865423264495a52482f696d6167655f323032362d30352d30345f3137353434363832312e706e67.png)
