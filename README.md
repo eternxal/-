@@ -35,6 +35,10 @@ $${\color{#E3FDFF}walked}$$
 $${\color{#a1d3e6}with}$$
 $${\color{#81b0d9}You}$$
 
+<div align="right">
+  <span style="color: #81b0d9;">Once</span>
+</div>
+
 
 ![♡](https://github.com/eternxal/eternxal/blob/5a0e0de7c013541ffe8fe3ca2b9268f931dc5cb4/68747470733a2f2f66696c652e67617264656e2f614c623531466f3865423264495a52482f696d6167655f323032362d30352d30345f3137353434363832312e706e67.png)
 
