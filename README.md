@@ -28,7 +28,7 @@ $${\color{#699db3}˖}$$
 $${\color{#4b6f92} ִֶָ}$$
 
 <p align="center">${\color{#3b4e7f}˖ ݁}$
-$${\color{#517cbb}I
+$${\color{#81b0d9}I
 ′
 ve}$$
 $${\color{#a1d3e6}walked}$$
