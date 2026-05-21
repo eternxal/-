@@ -32,7 +32,7 @@ $${\color{#a1d3e6}I
 ′
 ve}$$
 $${\color{#EFFFFF}walked}$$
-$${\color{#E3FDFF}with}$$
+$${\color{#b7d1e8}with}$$
 $${\color{#a1d3e6}You}$$
 
 <p align="right">${\color{#3d5690}Once}$
