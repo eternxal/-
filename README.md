@@ -26,7 +26,7 @@ $${\color{#699db3}˖}$$
 $${\color{#4b6f92} ִֶָ}$$
 
 <p align="center">${\color{#517cbb}˖ ݁}$
-$${\color{#436e98}I\color{#699db3}ᐟv\color{#8cc3d3}e\color{#bad3da}⠀wa\color{#bddfe8}l\color{#d4edf3}ke\color{#e3fdff}d⠀w\color{#a8cce0}i}$$
+$${\color{#436e98}I\color{#699db3}ᐟv\color{#8cc3d3}e\color{#bad3da}⠀wa\color{#bddfe8}l\color{#d4edf3}ke\color{#e3fdff}d⠀w\color{#a8cce0}i\color{#7da8d4}t\color{#8ccd3d3}h}$$
 
 
 <p align="right">${\color{#3d5690}Once}$
