@@ -26,12 +26,8 @@ $${\color{#699db3}˖}$$
 $${\color{#4b6f92} ִֶָ}$$
 
 <p align="center">${\color{#517cbb}˖ ݁}$
-$${\color{#699db3}I
-′
-ve}$$
-$${\color{#a1d3e6}walked}$$
-$${\color{#e3fdff}with}$$
-$${\color{#a1d3e6}You}$$
+$${\color{#436e98}Iᐟ}$$
+
 
 <p align="right">${\color{#3d5690}Once}$
 $${\color{#6b82b7}upon}$$
