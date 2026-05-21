@@ -17,7 +17,8 @@ $${\color{#2D6C83}.}$$
 
 ${\color{#273A61}◟₊}$
 $${\color{#2D6C83}I}$$
-$${\color{#159C9A}Kn}$$$${\color{49B299}ow}$$
+$${\color{#159C9A}Kn}$$
+$${\color{49B299}ow}$$
 $${\color{#49B299}You}$$
 
 <p align="center">${\color{#5BC0A7}˖ ݁  ་༘}$
