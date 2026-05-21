@@ -1,4 +1,3 @@
-![་༘ʚ𖹭ɞ₊◟](https://komarev.com)
 
 <p align="center">${\color{#1e2651}𖥔 ݁}$
 $${\color{#2a386e}𖥔 ݁}$$
