@@ -18,7 +18,7 @@ $${\color{#1e2651} ݁ 𖥔}$$
 ![♡](https://github.com/eternxal/eternxal/blob/d29307fb4aafe9d9229d7e811a7c8cea808ec776/d6f49b4f96b0d58ab1c162681532ec2a.jpg)
 
 ${\color{#273A61}◟}$
-$${\color{#172651}I\color{#283378}⠀Kn\color{#2e4796}ow\color{#2e4796}⠀Yo\colour{#3a65b5}u}$$
+$${\color{#172651}I\color{#283378}⠀know}$$
 $${\color{#AEE4D7}◞}$$
 $${\color{#E3FDFF}    ✦}$$
 $${\color{#AEE4D7} ࣪}$$
