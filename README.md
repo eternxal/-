@@ -8,9 +8,9 @@ $${\color{#85DAC5}◞}$$
 $${\color{#AEE4D7}✦}$$
 $${\color{#E3FDFF}◟}$$
 $${\color{#AEE4D7} ݁𖥔}$$
-$${\color{#49B299} ݁𖥔}$$
+$${\color{#85DAC5} ݁𖥔}$$
 $${\color{#5BC0A7} ݁𖥔}$$
-$${\color{#2D6C83} ݁𖥔}$$
+$${\color{#49B299} ݁𖥔}$$
 
 ![♡](https://github.com/eternxal/eternxal/blob/f1db93af1794e4592fa0a0595f40e6124ff7b6ae/Tumblr_l_23731063717183.jpg)
 
