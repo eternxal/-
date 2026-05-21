@@ -1,5 +1,5 @@
 
-${\color{#344E6F} ݁𖥔}$
+<p align="center">${\color{#344E6F} ݁𖥔}$
 ${\color{#2D6C83} ݁𖥔}$
 $${\color{#159C9A} ݁𖥔}$$
 $${\color{#49B299} ݁𖥔}$$
