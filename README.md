@@ -1,4 +1,3 @@
-![♡](https://github.com/eternxal/eternxal/blob/3bbb6aba390fbbbc5b77bce0e447895f12e0daeb/177941626584691090.png)
 
 <p align="center">${\color{#1e2651}𖥔 ݁}$
 $${\color{#2a386e}𖥔 ݁}$$
